@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Após instalar as dependências executar o seguinte comando:
+### Após instalar as dependências, executar o seguinte comando:
 ```
 npm run serve
 ```
