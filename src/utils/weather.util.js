@@ -1,5 +1,5 @@
 const assetsUrl =
-  'https://raw.githubusercontent.com/I0xAF/vue-weather/main/src/assets/sky/'
+  'https://raw.githubusercontent.com/elizabethboop123/weather-app/main/src/assets/sky/'
 export default {
   Drizzle: 'Chuvoso',
   Thunderstorm: 'Tempestade',
