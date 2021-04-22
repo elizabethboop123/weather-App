@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Comando para compilar?
+### Comando para compilar:
 ```
 npm run build
 ```
